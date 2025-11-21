@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Abdeldhaher Ben Brahim! 👋
 
-<!--
-**Dhaohrii/Dhaohrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m diving deep into the world of **Internet of Things**, building connected systems, exploring sensors, embedded devices, and real-time data solutions as part of my Master’s in Computer Science at Università degli Studi di Salerno.  
 
-Here are some ideas to get you started:
+## 🛠️ My Playground
+- IoT: sensors, Raspberry Pi, Arduino, ESP32
+- Protocols: MQTT, HTTP, CoAP
+- Data & Backend: databases, APIs, data processing
+- Tools: Git, GitHub, simulation environments   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me 
+- Email: abdeldhaher@yahoo.com  
+
+> “Turning data from the physical world into actionable insights.”
