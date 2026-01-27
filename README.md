@@ -1,14 +1,43 @@
-# Hey, I'm Abdeldhaher Ben Brahim! 👋
+# 👋 Hi, I’m Abdeldhaher Ben Brahim
 
-I’m diving deep into the world of **Internet of Things**, building connected systems, exploring sensors, embedded devices, and real-time data solutions as part of my Master’s in Computer Science at Università degli Studi di Salerno.  
+🎓 I’m a **Master’s student in Computer Science (IoT track)** at **Università degli Studi di Salerno**, with a strong interest in **software development and engineering**.  
+💻 Background as a **JavaScript developer**, focused on **backend development, APIs, and databases**.  
+🤖 I use **AI tools** to accelerate learning, support coding, and improve productivity.
 
-## 🛠️ My Playground
-- IoT: sensors, Raspberry Pi, Arduino, ESP32
-- Protocols: MQTT, HTTP, CoAP
-- Data & Backend: databases, APIs, data processing
-- Tools: Git, GitHub, simulation environments   
+I enjoy building **software-centric systems**, especially where **IoT, real-time data, and backend services** intersect.
 
-## 📫 Connect with Me 
-- Email: abdeldhaher@yahoo.com  
+---
 
-> “Turning data from the physical world into actionable insights.”
+## 🔧 My Skills
+
+**Software Engineering**
+- JavaScript / Node.js  
+- Backend services & REST APIs  
+- Databases (SQL & NoSQL)  
+
+**IoT (Software Perspective)**
+- MQTT, HTTP, CoAP  
+- Device-to-cloud communication  
+- Real-time data handling  
+
+**Embedded Systems (Learning & Practice)**
+- ESP32, Arduino, Raspberry Pi  
+- Sensors & basic device control  
+
+**AI Tools**
+- AI-assisted coding & debugging  
+- Learning acceleration & experimentation  
+- Documentation & workflow support  
+
+
+---
+
+## 📚 Current Focus
+- Improving **software engineering fundamentals**  
+- Building **clean, maintainable backend systems**  
+- Exploring **IoT data integration with scalable software architectures**  
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: [abdeldhaher@yahoo.com](mailto:abdeldhaher@yahoo.com) 
